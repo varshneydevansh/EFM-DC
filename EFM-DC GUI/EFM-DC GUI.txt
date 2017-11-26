@@ -1,0 +1,2 @@
+This is a graphical user interface chat application.
+
