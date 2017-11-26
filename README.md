@@ -39,7 +39,7 @@ If you want to test it locally just follow this steps:
 1. Launch another instance in client mode with ip 127.0.0.1 and the same port (**-c 127.0.0.1 -p 8000**).
 1. Start messaging!
 
-![Screenshot](https://github.com/varshneydevansh/EFM-DC/blob/master/EFM-DC%20terminal/Screenshot%20from%202017-11-26%2020-15-46.png?raw=true)
+![Screenshot]()
 
 ## Features:
 
