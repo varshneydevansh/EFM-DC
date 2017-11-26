@@ -83,10 +83,10 @@ You can found your histories on **~/.talk/username.log**
 
 ### How is the GUI?
 Here are a few screenshots, hope you like them:
-![Main window](https://github.com/varshneydevansh/EFM-DC/blob/master/EFM-DC%20GUI/Screenshot%20from%202017-11-26%2020-34-02.png)
+![Main window](https://github.com/varshneydevansh/EFM-DC/blob/master/EFM-DC%20GUI/Screenshot%20from%202017-11-26%2021-23-10.png)
 
 ![Setup dialog](https://github.com/varshneydevansh/EFM-DC/blob/master/EFM-DC%20GUI/Screenshot%20from%202017-11-26%2020-34-19.png)
 
 
 ### Do I HAVE TO use the GUI?
-No, I know that there are terminal lovers out there (as the truth), you can keep using talk as always ;)
+No, I know that there are *terminal lovers* out there (as the truth), you can keep using talk as always ;)
