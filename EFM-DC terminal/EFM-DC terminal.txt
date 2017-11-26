@@ -1,0 +1,20 @@
+This works in the linux terminal environment. #LinuxLove
+
+Arguments for launching :
+
+The program now requires of bash arguments, please check them below:
+
+-h --help Display help message.
+-s --server Enter server mode.
+-c --client IP Enter client mode and connect that ip (port required).
+-p --port PORT Specify port for listening / connecting.
+-u --user USER Specify sender's name.
+
+Basic test:
+
+If you want to test it locally just follow this steps:
+
+1. Compile the program.
+2. Launch an instance in server mode and listen to a free port (./ talk -s -p 8000).
+3. Launch another instance in client mode with ip 127.0.0.1 and the same port (-c 127.0.0.1 -p 8000).
+4. Start messaging!
